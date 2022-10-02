@@ -6,7 +6,7 @@ This project is a assignment from CODEMONDAY. This is a coronavirus-19 reports w
 
 mkdir coronavirus-report \
 cd coronavirus-report \
-git clone https://github.com/nuttapon423/codemonday-assignment.git \
+git clone https://github.com/nuttapon-first/codemonday-assignment.git \
 npm i
 
 ### `npm start`
